@@ -1,5 +1,6 @@
 # Structure_Function
 A C-API package of the classical structure-function analysis called by Matlab. The C code has been compiled under Mac OS and Ubuntu linux. Please cite the following two papers if you use these codes in your researches.
+
 @Article{Huang2010PRE,
   Title                    = {{Second-order structure function in fully developed turbulence}},
   Author                   = {Huang, Y.X. and Schmitt, F.G. and Lu, Z.M. and Fougairolles, P. and Gagne, Y. and Liu, Y.L.},
